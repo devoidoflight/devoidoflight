@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @devoidoflight
-- 👀 I’m interested in Data and social problems.
-- 🌱 I’m currently learning Python and PostgreSQL
-- 📫 How to reach me? You can't, because I'm Batman... or am i? Yes I'm Batman...
+- 👀 I have interest in data and social problems.
+- 🌱 I’m currently learning Python, PostgreSQL and Tableau
+- 📊 Also I'm working as intern data analyst @ makromusic 
+- 📫 How to reach me? You can't, because I'm Batman... or am i? Yes I'm Batman... just jokin. [Mehmet Boran Göksel](https://www.linkedin.com/in/mgoksel/)
 
 <!---
 devoidoflight/devoidoflight is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devoidoflight
 - 👀 I have interest in data and social problems.
-- 🌱 I’m currently learning Python, PostgreSQL and Tableau
+- 🌱 ~~I’m currently learning Python, PostgreSQL and Tableau~~ I'm fluent in SQL and Tableau. I can write 
 - 📊 Also I'm working as intern data analyst @ makromusic 
 - 📫 How to reach me? You can't, because I'm Batman... or am i? Yes I'm Batman... just jokin. [Mehmet Boran Göksel](https://www.linkedin.com/in/mgoksel/)
 

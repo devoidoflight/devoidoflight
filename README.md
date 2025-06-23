@@ -59,8 +59,6 @@ I'm a data analyst and graduate student in Computational Social Science based in
 ## 📫 Let's Connect
 
 - 📎 [LinkedIn](https://www.linkedin.com/in/mgoksel/)
-- 🧠 [GitHub](https://github.com/mgoksel)
-- ✉️ borangokselw@gmail.com  
 
 ---
 

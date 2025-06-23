@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Boran Göksel
+# 👋 Hi, I'm Boran
 
 I'm a data analyst and graduate student in Computational Social Science based in Istanbul. I’m interested in how data can be used to understand human behavior, support decision-making, and improve digital products. My work usually involves SQL, Python, dashboards, and occasionally some maps.
 
